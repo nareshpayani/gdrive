@@ -1,9 +1,18 @@
 import './App.css';
+import Header from './Components/Header';
+import Sidebar from './Components/Sidebar';
+import FileView from './Components/FileView';
+import RightBar from './Components/RightBar';
 
 function App() {
   return (
     <div className="app">
-      <h1>Google Drive</h1>
+      <Header />
+      <div className="app__body">
+        <Sidebar/>
+        <FileView/>
+        <RightBar/>
+      </div>
     </div>
   );
 }

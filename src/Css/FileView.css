@@ -1,0 +1,15 @@
+.fileView{
+    flex: 1;
+    overflow: scroll;
+}
+
+.fileViewHeader__settings{
+    position: sticky;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #dadce0;
+    background-color: white;
+    padding-right: 10px;
+    z-index: 999;
+}
