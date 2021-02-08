@@ -1,5 +1,7 @@
 import React from 'react'
 import "../Css/RightBar.css";
+
+//Icons
 import calender from "../Media/calender.png";
 import task from "../Media/task.png";
 import keep from "../Media/keep.png";

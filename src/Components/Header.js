@@ -2,6 +2,8 @@ import React from 'react';
 import "../Css/Header.css";
 import gDrivelogo from "../Media/logo.png";
 import { Avatar, IconButton } from '@material-ui/core';
+
+//Icons
 import SearchIcon from '@material-ui/icons/Search';
 import ArrowDropDownIcon from '@material-ui/icons/ArrowDropDown';
 import AppsIcon from '@material-ui/icons/Apps';

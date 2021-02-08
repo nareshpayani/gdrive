@@ -30,3 +30,23 @@
     font-size: 13px;
     text-transform: capitalize !important;
 }
+
+.modle__Header{
+    color: #1a73e8;
+    text-align: center;
+    margin-top: 15px;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.modle__body{
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: crimson;
+}
+
+.modle__body> button{
+    color: #1a73e8;
+}
